@@ -2,4 +2,5 @@ client/node_modules
 client/.tmp
 client/.sass-cache
 server/node_modules
+server/dist/
 
