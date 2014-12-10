@@ -14,7 +14,7 @@ function grunt_build {
   cd ..
 }
 
-function client_test {
+function run_client_tests {
   cd client
   grunt test
   cd ..
